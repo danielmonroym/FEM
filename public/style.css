@@ -1,0 +1,13 @@
+.request-complement{
+    border-radius: 10px;
+    color: white;
+}
+
+.request-insult{
+    border-radius: 10px;
+    color: white;
+}
+.card:first-child{
+    margin-top: 5%;
+    margin-bottom:5% ;
+}
